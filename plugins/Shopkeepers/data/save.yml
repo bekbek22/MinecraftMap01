@@ -1,0 +1,30 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyways, ensure that the server is not running currently and that you have prepared a backup of this file.
+
+data-version: 3|1|2865
+'1':
+  uniqueId: e44aa527-ba39-407a-95db-ef8b42433708
+  world: world
+  x: 103
+  y: 147
+  z: -33
+  yaw: 64.5639
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2865
+        type: COMMAND_BLOCK
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2865
+        type: IRON_INGOT
+        amount: 2
+  snapshots: []

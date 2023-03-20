@@ -1,0 +1,173 @@
+[00:57:24] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:57:24] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[00:57:26] [Worker-Main-9/INFO]: Loaded 7 recipes
+[00:57:29] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[00:57:29] [Server thread/INFO]: Loading properties
+[00:57:29] [Server thread/INFO]: Default game type: SURVIVAL
+[00:57:29] [Server thread/INFO]: Generating keypair
+[00:57:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:57:29] [Server thread/INFO]: Using default channel type
+[00:57:30] [Server thread/INFO]: This server is running CraftBukkit version 3443-Bukkit-2c1e499 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
+[00:57:31] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.9+e20e013
+[00:57:32] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6eb1c034]
+[00:57:32] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.7+216b061
+[00:57:32] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v2.14.0
+[00:57:33] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (823 ms).
+[00:57:33] [Server thread/INFO]: [Shopkeepers] Loading config.
+[00:57:34] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[00:57:34] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
+[00:57:34] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[00:57:34] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.9+e20e013
+[00:57:34] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[00:57:35] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[00:57:35] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_18_R1.PaperweightAdapter as the Bukkit adapter
+[00:57:36] [Server thread/INFO]: [WorldEdit] ====================================================
+[00:57:36] [Server thread/INFO]: [WorldEdit]  WorldEdit works better if you use Paper 
+[00:57:36] [Server thread/INFO]: [WorldEdit]  as your server software. 
+[00:57:36] [Server thread/INFO]: [WorldEdit]   
+[00:57:36] [Server thread/INFO]: [WorldEdit]  Paper offers significant performance improvements,
+[00:57:36] [Server thread/INFO]: [WorldEdit]  bug fixes, security enhancements and optional
+[00:57:36] [Server thread/INFO]: [WorldEdit]  features for server owners to enhance their server.
+[00:57:36] [Server thread/INFO]: [WorldEdit]   
+[00:57:36] [Server thread/INFO]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[00:57:36] [Server thread/INFO]: [WorldEdit]  better at diagnosing lag problems over v1.
+[00:57:36] [Server thread/INFO]: [WorldEdit]   
+[00:57:36] [Server thread/INFO]: [WorldEdit]  All of your plugins should still work, and the
+[00:57:36] [Server thread/INFO]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[00:57:36] [Server thread/INFO]: [WorldEdit]   
+[00:57:36] [Server thread/INFO]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[00:57:36] [Server thread/INFO]: [WorldEdit] ====================================================
+[00:57:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:57:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:57:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:57:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:57:36] [Server thread/INFO]: Preparing level "world"
+[00:57:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:57:40] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[00:57:40] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[00:57:40] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[00:57:40] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[00:57:41] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[00:57:41] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[00:57:42] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[00:57:49] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[00:57:49] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[00:57:49] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[00:57:49] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[00:57:49] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[00:57:49] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[00:57:49] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[00:57:49] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[00:57:49] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[00:57:49] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[00:57:49] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[00:57:49] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[00:57:49] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[00:57:49] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[00:57:49] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[00:57:50] [Worker-Main-12/INFO]: Preparing spawn area: 13%
+[00:57:50] [Worker-Main-9/INFO]: Preparing spawn area: 16%
+[00:57:51] [Worker-Main-9/INFO]: Preparing spawn area: 27%
+[00:57:51] [Worker-Main-8/INFO]: Preparing spawn area: 34%
+[00:57:52] [Worker-Main-8/INFO]: Preparing spawn area: 37%
+[00:57:52] [Worker-Main-13/INFO]: Preparing spawn area: 46%
+[00:57:53] [Worker-Main-9/INFO]: Preparing spawn area: 56%
+[00:57:53] [Worker-Main-9/INFO]: Preparing spawn area: 67%
+[00:57:54] [Worker-Main-14/INFO]: Preparing spawn area: 81%
+[00:57:54] [Worker-Main-10/INFO]: Preparing spawn area: 86%
+[00:57:54] [Server thread/INFO]: Time elapsed: 15921 ms
+[00:57:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:57:56] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[00:57:56] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[00:57:56] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[00:57:56] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[00:57:57] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[00:57:57] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[00:57:58] [Worker-Main-8/INFO]: Preparing spawn area: 2%
+[00:57:59] [Worker-Main-14/INFO]: Preparing spawn area: 15%
+[00:57:59] [Worker-Main-14/INFO]: Preparing spawn area: 15%
+[00:57:59] [Worker-Main-8/INFO]: Preparing spawn area: 32%
+[00:58:00] [Worker-Main-8/INFO]: Preparing spawn area: 47%
+[00:58:00] [Worker-Main-8/INFO]: Preparing spawn area: 59%
+[00:58:01] [Worker-Main-9/INFO]: Preparing spawn area: 68%
+[00:58:01] [Worker-Main-12/INFO]: Preparing spawn area: 68%
+[00:58:02] [Worker-Main-13/INFO]: Preparing spawn area: 68%
+[00:58:02] [Worker-Main-11/INFO]: Preparing spawn area: 69%
+[00:58:03] [Worker-Main-9/INFO]: Preparing spawn area: 70%
+[00:58:03] [Worker-Main-9/INFO]: Preparing spawn area: 72%
+[00:58:04] [Worker-Main-9/INFO]: Preparing spawn area: 73%
+[00:58:04] [Worker-Main-14/INFO]: Preparing spawn area: 74%
+[00:58:05] [Worker-Main-10/INFO]: Preparing spawn area: 77%
+[00:58:05] [Worker-Main-11/INFO]: Preparing spawn area: 78%
+[00:58:06] [Worker-Main-10/INFO]: Preparing spawn area: 80%
+[00:58:06] [Worker-Main-14/INFO]: Preparing spawn area: 82%
+[00:58:07] [Worker-Main-12/INFO]: Preparing spawn area: 83%
+[00:58:07] [Worker-Main-12/INFO]: Preparing spawn area: 84%
+[00:58:08] [Worker-Main-12/INFO]: Preparing spawn area: 85%
+[00:58:08] [Worker-Main-14/INFO]: Preparing spawn area: 85%
+[00:58:09] [Worker-Main-12/INFO]: Preparing spawn area: 86%
+[00:58:09] [Worker-Main-9/INFO]: Preparing spawn area: 88%
+[00:58:10] [Worker-Main-8/INFO]: Preparing spawn area: 89%
+[00:58:10] [Worker-Main-9/INFO]: Preparing spawn area: 90%
+[00:58:11] [Worker-Main-9/INFO]: Preparing spawn area: 91%
+[00:58:11] [Worker-Main-8/INFO]: Preparing spawn area: 92%
+[00:58:12] [Worker-Main-9/INFO]: Preparing spawn area: 93%
+[00:58:12] [Worker-Main-10/INFO]: Preparing spawn area: 94%
+[00:58:13] [Worker-Main-9/INFO]: Preparing spawn area: 95%
+[00:58:13] [Worker-Main-8/INFO]: Preparing spawn area: 96%
+[00:58:14] [Worker-Main-8/INFO]: Preparing spawn area: 97%
+[00:58:14] [Worker-Main-9/INFO]: Preparing spawn area: 99%
+[00:58:14] [Server thread/INFO]: Time elapsed: 19558 ms
+[00:58:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:58:15] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[00:58:15] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[00:58:15] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[00:58:16] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[00:58:16] [Worker-Main-8/INFO]: Preparing spawn area: 2%
+[00:58:17] [Worker-Main-9/INFO]: Preparing spawn area: 10%
+[00:58:17] [Worker-Main-8/INFO]: Preparing spawn area: 28%
+[00:58:18] [Worker-Main-14/INFO]: Preparing spawn area: 43%
+[00:58:18] [Worker-Main-14/INFO]: Preparing spawn area: 59%
+[00:58:19] [Worker-Main-9/INFO]: Preparing spawn area: 79%
+[00:58:19] [Worker-Main-14/INFO]: Preparing spawn area: 86%
+[00:58:20] [Worker-Main-10/INFO]: Preparing spawn area: 92%
+[00:58:20] [Server thread/INFO]: Time elapsed: 5716 ms
+[00:58:20] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.7+216b061
+[00:58:20] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[00:58:20] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[00:58:20] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[00:58:20] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[00:58:20] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[00:58:20] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[00:58:20] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[00:58:20] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[00:58:20] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[00:58:20] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[00:58:20] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[00:58:20] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[00:58:20] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[00:58:20] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[00:58:20] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[00:58:20] [Server thread/INFO]: [WorldGuard] Loading region data...
+[00:58:21] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.14.0
+[00:58:21] [Server thread/INFO]: [Shopkeepers] No Spigot-based server found: Disabling Spigot exclusive features!
+[00:58:21] [Server thread/INFO]: [Shopkeepers] Loading the data of 1 shopkeepers ...
+[00:58:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:58:21] [Server thread/INFO]: Done (44.886s)! For help, type "help"
+[00:59:10] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[00:59:12] [Server thread/INFO]: Stopping the server
+[00:59:12] [Server thread/INFO]: Stopping server
+[00:59:12] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.14.0
+[00:59:12] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.7+216b061
+[00:59:12] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[00:59:12] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.9+e20e013
+[00:59:12] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[00:59:12] [Server thread/INFO]: Saving players
+[00:59:13] [Server thread/INFO]: Saving worlds
+[00:59:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:59:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:59:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:59:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:59:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:59:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:59:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
